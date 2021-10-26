@@ -62,6 +62,7 @@ const handOptions = {
     }
   };
   
+
   const restartGame = () => {
     let contest = document.querySelector(".contest");
     contest.style.display = "none";
@@ -78,4 +79,5 @@ const handOptions = {
     SCORE = newScore;
     document.querySelector(".score h1").innerText = newScore;
   }
+  
   
