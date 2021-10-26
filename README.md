@@ -1,2 +1,8 @@
-# -rock-paper-scissors-game
- Rock Paper Scissors Game
+# Rock-paper-scissors-game
+A Simple Demo Website to Play Rock Paper Scissors Game
+
+
+## Tech Stack
+- JS
+- CSS 
+- HTML
