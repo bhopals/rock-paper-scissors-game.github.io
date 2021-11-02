@@ -9,5 +9,5 @@ A Simple Demo Website to Play Rock Paper Scissors Game
 
 ## Demo 
 
-[Please Rock Paper Scissors Game](https://vigilant-wescoff-da6868.netlify.app/)
+[Rock Paper Scissors Game](https://vigilant-wescoff-da6868.netlify.app/)
 
