@@ -6,6 +6,7 @@ A Simple Demo Website to Play Rock Paper Scissors Game
 - JS
 - CSS 
 - HTML
+- DOM Manipulation
 
 ## Demo 
 
