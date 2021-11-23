@@ -8,9 +8,11 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: "Barlow Condensed", sans-serif;
 }
+
 
 /* 
 -------------------------------------------------------------------------------
@@ -30,6 +32,7 @@ HTML elements
   );
 }
 
+
 .scoreboard {
   width: 700px;
   height: 150px;
@@ -40,6 +43,7 @@ HTML elements
   align-items: center;
   margin-top: 50px;
 }
+
 
 .title {
   padding-left: 30px;
