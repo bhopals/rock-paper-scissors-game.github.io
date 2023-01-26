@@ -1,5 +1,5 @@
 # Rock-paper-scissors-game
-A Simple Demo Website to Play Rock Paper Scissors Game
+A Simple Demo Web Application to Play Rock Paper Scissors Game
 
 
 ## Tech Stack
