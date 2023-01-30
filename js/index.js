@@ -12,7 +12,7 @@ const handOptions = {
     let contest = document.querySelector(".contest");
     contest.style.display = "flex";
   
-    // set user Image
+    // set user Image BG
     document.getElementById("userPickImage").src = handOptions[hand];
     pickComputerHand(hand);
   };
