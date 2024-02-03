@@ -4,9 +4,12 @@ A Simple Demo Web Application to Play Rock Paper Scissors Game
 
 ## Tech Stack
 - JS
-- CSS 
+- CSS
+  - CSS Styling 
+  - CSS Animation
 - HTML
 - DOM Manipulation
+
 
 ## Demo 
 
