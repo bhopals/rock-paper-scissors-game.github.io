@@ -11,7 +11,7 @@ A Simple Demo Web Application to Play Rock Paper Scissors Game
 - DOM Manipulation
 
 
-## Demo 
+## Rock-paper-scissors-game Demo 
 
 [Rock Paper Scissors Game](https://vigilant-wescoff-da6868.netlify.app/)
 
